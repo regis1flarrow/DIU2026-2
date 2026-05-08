@@ -1,0 +1,7 @@
+# React / Vite
+**/node_modules/
+**/dist/
+**/dist-ssr/
+*.log
+.env
+.env.local
